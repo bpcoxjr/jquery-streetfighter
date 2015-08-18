@@ -489,11 +489,15 @@ body {
 	background-image: url('../images/ryu-cool.gif');
 }
 
+.instructions {
+	float: right;
+	width: 50%;
+}
+
 .instructions p {
 	display: block;
-	float: right;
 	color: black;
 	font-size: 30px;
 	font-family: bangers;
-	width: 50%;
+	width: 30%;
 }
